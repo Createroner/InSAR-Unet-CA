@@ -11,7 +11,7 @@ This study systematically compares three mainstream semantic segmentation networ
 | `DeepLabV3.py` | DeepLabV3 | Atrous Spatial Pyramid Pooling (ASPP) | None |
 | `DeepLabV3ChannelAttention.py` | DeepLabV3-CA | DeepLabV3 | Channel Attention |
 | `DeepLabV3SpatialAttention.py` | DeepLabV3-SA | DeepLabV3 | Spatial Attention |
-| `PSPNet.py` | PSPNet | Pyramid Pooling Module (PPM) | None |
+| `PSPNet.py` | PSPNet | ASPP | None |
 | `PSPNet-ChannelAttention.py` | PSPNet-CA | PSPNet | Channel Attention |
 | `PSPNet-SpatialAttention.py` | PSPNet-SA | PSPNet | Spatial Attention |
 
