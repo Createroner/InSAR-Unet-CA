@@ -27,3 +27,12 @@ Experimental Results
 | PSPNet | 66.51 | 70.42 | 75.46 | 95.49 |
 | PSPNet-CA | 66.54 | 70.92 | 75.50 | 95.39 |
 | PSPNet-SA | 65.72 | 69.65 | 74.61 | 95.35 |
+
+# Google Drive Data Download
+
+## Dataset Access
+
+The dataset used in this study has been uploaded to Google Drive for public access. You can download the data using the following methods:
+
+### Direct Download
+- **Google Drive Link**: ([https://drive.google.com/drive/folders/your-folder-id-here?usp=sharing](https://drive.google.com/drive/folders/1YftnX2sl9EyMYOlejeeC1v7onpp5nqHE?usp=drive_link))
